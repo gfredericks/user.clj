@@ -1,4 +1,4 @@
-(defproject com.gfredericks/user.clj "0.1.0"
+(defproject com.gfredericks/user.clj "0.1.1-SNAPSHOT"
   :description "A library for loading clojure user files."
   :url "https://github.com/gfredericks/user.clj"
   :license {:name "Eclipse Public License"
