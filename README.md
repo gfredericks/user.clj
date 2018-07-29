@@ -5,7 +5,7 @@ other user files.
 
 The immediate problem it's meant to solve is that the user-level
 `deps.edn` file can't reference `$HOME`-relative paths as a way of
-providing your own `user.clj` directly,
+providing your own `user.clj` directly.
 
 ## Obtention
 
